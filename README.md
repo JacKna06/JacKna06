@@ -1,5 +1,5 @@
-<p>Pythoning on the daily</p>
-BWR enthusiast
+--Pythoning on the daily
+-BWR enthusiast
 
 <!---
 JacKna06/JacKna06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
